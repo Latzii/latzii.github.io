@@ -1,7 +1,7 @@
 
 # Inicio
 
-Ete es mi pagiana personal donde tomare apuntes sobre metodos utilizados o llevados a acabo a ciertas maquinas pwned para no perder el conocimiento y tener un orden de todos los metodos que he utilizado.
+Ete es mi pagina personal donde tomare apuntes sobre metodos utilizados o llevados a acabo a ciertas maquinas pwned para no perder el conocimiento y tener un orden de todos los metodos que he utilizado.
 
 ## Aqui ira nombre de la maquina y metodo
 
