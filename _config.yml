@@ -1,6 +1,6 @@
-title: Minimal theme
+title: Apuntes para maquinas virtuales en hack the box
 logo: /assets/img/logo.png
-description: Minimal is a theme for GitHub Pages.
+description: Esta pagina es un block de notas personal, donde empezare a tomar apuntes sobre maquinas que haya concretado y esten pwned por mi, mas que nada estpo me servira para recordar algunos metodos interesantes y no perder el conocimiento.
 show_downloads: true
 google_analytics:
 theme: jekyll-theme-minimal
